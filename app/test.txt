@@ -1,0 +1,3 @@
+Hello, this is a test file.
+Testing the ETL Lambda function.
+This should be transformed to uppercase.
